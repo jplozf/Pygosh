@@ -1,0 +1,29 @@
+missing module named PySide - imported by c:\users\jpliguori\appdata\local\programs\python\python36-32\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_qt4plugins.py
+missing module named resource - imported by posix, E:\Projets\Python\Gosh\main.py
+missing module named posix - imported by os, E:\Projets\Python\Gosh\main.py
+missing module named _posixsubprocess - imported by subprocess, E:\Projets\Python\Gosh\main.py
+missing module named 'org.python' - imported by pickle, E:\Projets\Python\Gosh\main.py, xml.sax
+missing module named readline - imported by cmd, code, pdb, E:\Projets\Python\Gosh\main.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, E:\Projets\Python\Gosh\main.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, E:\Projets\Python\Gosh\main.py
+missing module named _winreg - imported by platform, E:\Projets\Python\Gosh\main.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, E:\Projets\Python\Gosh\main.py
+missing module named 'java.lang' - imported by platform, E:\Projets\Python\Gosh\main.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, E:\Projets\Python\Gosh\main.py
+missing module named termios - imported by tty, E:\Projets\Python\Gosh\main.py, getpass
+missing module named grp - imported by shutil, tarfile, E:\Projets\Python\Gosh\main.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, E:\Projets\Python\Gosh\main.py, netrc, getpass
+missing module named _dummy_threading - imported by dummy_threading, E:\Projets\Python\Gosh\main.py
+missing module named org - imported by copy, E:\Projets\Python\Gosh\main.py
+missing module named _gdbm - imported by dbm.gnu
+missing module named _dbm - imported by dbm.ndbm
+invalid module named PyQt4.uic.port_v2.load_plugin - imported by PyQt4.uic.objcreator
+missing module named 'PyQt4.uic.port_v2' - imported by PyQt4.uic.properties
+missing module named 'PyQt4.elementtree' - imported by PyQt4.uic.uiparser
+missing module named elementtree - imported by PyQt4.uic.uiparser
+missing module named ElementTree - imported by PyQt4.uic.uiparser
+missing module named StringIO - imported by PyQt4.uic.port_v2.string_io
+missing module named cStringIO - imported by PyQt4.uic.port_v2.string_io
+missing module named copy_reg - imported by cStringIO
+missing module named sets - imported by PyQt4.uic.Compiler.qobjectcreator

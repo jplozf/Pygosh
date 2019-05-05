@@ -1,0 +1,34 @@
+<!DOCTYPE XUPProject>
+<!--
+###########################################################################################
+##      Created using Monkey Studio IDE v1.9.0.4 (1.9.0.4)
+##
+##  Author    : jpl@ozf.fr
+##  Project   : Gosh
+##  FileName  : Gosh.xpythonqt
+##  Date      : 2018-08-03T10:18:34
+##  License   : GPL
+##  Comment   : Creating using Monkey Studio RAD
+##  Home Page : http://www.ozf.fr/#gosh
+##
+##  This file is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE
+##  WARRANTY OF DESIGN, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+##
+###########################################################################################
+-->
+<project version="1.1.0" name="Gosh">
+    <variable name="XUP.MAIN_FILE">
+        <value>gosh.py</value>
+    </variable>
+    <variable name="FORMS">
+        <file>mainwindow.ui</file>
+    </variable>
+    <variable name="PYTHON_FILES">
+        <file>gosh.py</file>
+        <file>mainwindow.py</file>
+        <file>const.py</file>
+        <file>settings.py</file>
+        <file>commandsUI.py</file>
+        <file>syntax.py</file>
+    </variable>
+</project>
